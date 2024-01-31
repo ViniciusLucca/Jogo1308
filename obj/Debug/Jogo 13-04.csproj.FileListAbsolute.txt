@@ -1,0 +1,58 @@
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\Jogo 13-04\bin\Debug\Jogo 13-04.exe.config
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\Jogo 13-04\bin\Debug\Jogo 13-04.exe
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\Jogo 13-04\bin\Debug\Jogo 13-04.pdb
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\Jogo 13-04\obj\Debug\Jogo 13-04.csprojResolveAssemblyReference.cache
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\Jogo 13-04\obj\Debug\Jogo_13_04.MainForm.resources
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\Jogo 13-04\obj\Debug\Jogo 13-04.csproj.GenerateResource.Cache
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\Jogo 13-04\obj\Debug\Jogo 13-04.exe
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\Jogo 13-04\obj\Debug\Jogo 13-04.pdb
+U:\Etec 2022\DS\Jogo 13-04\bin\Debug\Jogo 13-04.exe.config
+U:\Etec 2022\DS\Jogo 13-04\bin\Debug\Jogo 13-04.exe
+U:\Etec 2022\DS\Jogo 13-04\bin\Debug\Jogo 13-04.pdb
+U:\Etec 2022\DS\Jogo 13-04\obj\Debug\Jogo 13-04.csprojResolveAssemblyReference.cache
+U:\Etec 2022\DS\Jogo 13-04\obj\Debug\Jogo_13_04.MainForm.resources
+U:\Etec 2022\DS\Jogo 13-04\obj\Debug\Jogo 13-04.csproj.GenerateResource.Cache
+U:\Etec 2022\DS\Jogo 13-04\obj\Debug\Jogo 13-04.exe
+U:\Etec 2022\DS\Jogo 13-04\obj\Debug\Jogo 13-04.pdb
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\bin\Debug\Jogo 13-04.exe.config
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\bin\Debug\Jogo 13-04.exe
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\bin\Debug\Jogo 13-04.pdb
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\obj\Debug\Jogo 13-04.csprojResolveAssemblyReference.cache
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\obj\Debug\Jogo_13_04.MainForm.resources
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\obj\Debug\Jogo 13-04.csproj.GenerateResource.Cache
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\obj\Debug\Jogo 13-04.exe
+U:\2ºA Etim\DS\SharpDevelop Projects\Jogo 13-04\obj\Debug\Jogo 13-04.pdb
+U:\Etec 2022\DS\Jogo 13-04\obj\Debug\Jogo_13_04.Form1.resources
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\bin\Debug\Jogo 13-04.exe.config
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\bin\Debug\Jogo 13-04.exe
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\bin\Debug\Jogo 13-04.pdb
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.csprojResolveAssemblyReference.cache
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.Form1.resources
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.MainForm.resources
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.csproj.GenerateResource.Cache
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.exe
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.pdb
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.Form2.resources
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\bin\Debug\Jogo 13-04.exe.config
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\bin\Debug\Jogo 13-04.exe
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\bin\Debug\Jogo 13-04.pdb
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.csprojResolveAssemblyReference.cache
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.Form1.resources
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.Form2.resources
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.MainForm.resources
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.csproj.GenerateResource.Cache
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.exe
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.pdb
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.Form3.resources
+U:\Etec 2022\DS\Jogo 14-03 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.Form3.resources
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\bin\Debug\Jogo 13-04.exe.config
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\bin\Debug\Jogo 13-04.exe
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\bin\Debug\Jogo 13-04.pdb
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.csprojResolveAssemblyReference.cache
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.Form1.resources
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.Form2.resources
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.MainForm.resources
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\obj\Debug\Jogo_13_04.Form3.resources
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.csproj.GenerateResource.Cache
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.exe
+C:\Users\vini7\OneDrive - Etec Centro Paula Souza\Jogo 27-09 Solução\Jogo 13-04\obj\Debug\Jogo 13-04.pdb
